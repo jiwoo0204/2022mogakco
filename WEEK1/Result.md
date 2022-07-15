@@ -12,6 +12,9 @@
 
 **해결**
 
+![image](https://user-images.githubusercontent.com/90139549/179148650-ff199707-75ba-49a6-987e-af3b6eec74aa.png)
+
+
 
 코드 : https://github.com/jiwoo0204/2022mogakco/tree/master
 
