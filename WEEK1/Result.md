@@ -16,7 +16,7 @@
 
 
 
-코드 : https://github.com/jiwoo0204/2022mogakco/tree/master
+코드 : https://github.com/jiwoo0204/mogakcocode/tree/main/moWeek1_1
 
 이클립스에서 바로 깃허브로 업로드하는 과정을 다소 헤메긴 했지만, 차근차근 따라했더니 해결한 코드를 성공적으로 업로드할 수 있었다.
 
