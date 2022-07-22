@@ -10,8 +10,14 @@ N번 집의 색은 N-1번 집의 색과 같지 않아야 한다.
 i(2 ≤ i ≤ N-1)번 집의 색은 i-1번, i+1번 집의 색과 같지 않아야 한다.
 
 
+
+
+**해결**
+
 ![image](https://user-images.githubusercontent.com/90139549/180381067-a6802af8-276c-44ca-aef9-e5c83daea76c.png)
 
 
 코드 : https://github.com/jiwoo0204/mogakcocode/blob/main/moWeek3_1/src/Main.java
 
+
+문제를 잘못 이해해서 처음 제출하였을 때 오답 처리가 되었지만 다이나믹 프로그래밍의 정의를 다시 찾아보고 bottom-up 풀이 과정으로 작성하였더니 해결할 수 있었다. 
