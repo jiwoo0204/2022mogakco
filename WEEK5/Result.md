@@ -1,11 +1,11 @@
 **결과**
 
 
-![image](https://user-images.githubusercontent.com/90139549/182300282-1b71d217-b833-458f-a01a-11a830482374.png)
+![image](https://user-images.githubusercontent.com/90139549/182497283-c460531a-30e1-4dd8-9095-dfa93895675a.png)
 
 
 **코드**
-
+https://github.com/jiwoo0204/mogakcocode/blob/main/moWeek5_1/prac1.html
 
 
 **구현**
